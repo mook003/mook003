@@ -1,0 +1,95 @@
+<svg width="100%" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>mook003</title>
+  <desc>robotics · perception · planning</desc>
+
+  <rect width="1200" height="200" fill="#0d1117"/>
+
+  <line x1="80" y1="50" x2="1120" y2="50" stroke="#FF7A1A" stroke-width="1" opacity="0.4"/>
+
+  <text x="80" y="110" font-family="ui-monospace, 'JetBrains Mono', Menlo, monospace" font-size="42" font-weight="700">
+    <tspan fill="#8b949e">~ $ </tspan><tspan fill="#FF7A1A">mook003</tspan>
+  </text>
+
+  <text x="80" y="145" fill="#8b949e" font-family="ui-monospace, monospace" font-size="16" letter-spacing="2">robotics  ·  perception  ·  planning</text>
+
+  <rect x="370" y="82" width="14" height="30" fill="#FF7A1A">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <line x1="80" y1="170" x2="1120" y2="170" stroke="#FF7A1A" stroke-width="1" opacity="0.4"/>
+
+  <g fill="#FF7A1A">
+    <circle cx="850" cy="95" r="2.5" opacity="1"/>
+    <circle cx="867" cy="105" r="2.5" opacity="1"/>
+    <circle cx="900" cy="93" r="2" opacity="0.95"/>
+    <circle cx="820" cy="88" r="2" opacity="1"/>
+    <circle cx="835" cy="98" r="2" opacity="0.9"/>
+    <circle cx="845" cy="85" r="1.8" opacity="0.95"/>
+    <circle cx="862" cy="118" r="2" opacity="0.95"/>
+    <circle cx="878" cy="92" r="1.8" opacity="0.85"/>
+    <circle cx="888" cy="105" r="2" opacity="0.9"/>
+    <circle cx="893" cy="82" r="1.8" opacity="0.8"/>
+    <circle cx="855" cy="112" r="1.8" opacity="0.85"/>
+    <circle cx="840" cy="108" r="1.5" opacity="0.9"/>
+    <circle cx="875" cy="115" r="2" opacity="0.95"/>
+    <circle cx="803" cy="72" r="1.5" opacity="0.75"/>
+    <circle cx="868" cy="76" r="1.5" opacity="0.8"/>
+    <circle cx="885" cy="132" r="1.5" opacity="0.7"/>
+    <circle cx="812" cy="92" r="1.5" opacity="0.85"/>
+    <circle cx="853" cy="132" r="1.5" opacity="0.7"/>
+    <circle cx="895" cy="120" r="1.5" opacity="0.8"/>
+    <circle cx="783" cy="83" r="1.5" opacity="0.7"/>
+    <circle cx="798" cy="107" r="1.5" opacity="0.6"/>
+    <circle cx="813" cy="125" r="1" opacity="0.5"/>
+    <circle cx="922" cy="98" r="1.5" opacity="0.7"/>
+    <circle cx="913" cy="82" r="1" opacity="0.6"/>
+    <circle cx="938" cy="113" r="1.5" opacity="0.7"/>
+    <circle cx="772" cy="97" r="1" opacity="0.5"/>
+    <circle cx="792" cy="128" r="1" opacity="0.55"/>
+    <circle cx="908" cy="128" r="1.5" opacity="0.65"/>
+    <circle cx="948" cy="92" r="1" opacity="0.6"/>
+    <circle cx="918" cy="135" r="1.5" opacity="0.6"/>
+    <circle cx="928" cy="72" r="1.5" opacity="0.65"/>
+    <circle cx="958" cy="103" r="1" opacity="0.55"/>
+    <circle cx="963" cy="78" r="1" opacity="0.5"/>
+    <circle cx="767" cy="82" r="1" opacity="0.45"/>
+    <circle cx="822" cy="133" r="1" opacity="0.55"/>
+    <circle cx="877" cy="68" r="1" opacity="0.5"/>
+    <circle cx="908" cy="68" r="1" opacity="0.45"/>
+    <circle cx="772" cy="118" r="1" opacity="0.5"/>
+    <circle cx="843" cy="62" r="1" opacity="0.5"/>
+    <circle cx="828" cy="73" r="1" opacity="0.55"/>
+    <circle cx="945" cy="125" r="1" opacity="0.5"/>
+    <circle cx="930" cy="103" r="1.2" opacity="0.65"/>
+    <circle cx="723" cy="73" r="1" opacity="0.35"/>
+    <circle cx="733" cy="103" r="1" opacity="0.4"/>
+    <circle cx="753" cy="133" r="1" opacity="0.4"/>
+    <circle cx="983" cy="73" r="1" opacity="0.4"/>
+    <circle cx="973" cy="133" r="1" opacity="0.45"/>
+    <circle cx="1003" cy="98" r="1" opacity="0.35"/>
+    <circle cx="1033" cy="88" r="1" opacity="0.3"/>
+    <circle cx="1053" cy="118" r="1" opacity="0.3"/>
+    <circle cx="703" cy="113" r="1" opacity="0.3"/>
+    <circle cx="743" cy="63" r="1" opacity="0.3"/>
+    <circle cx="823" cy="58" r="1" opacity="0.4"/>
+    <circle cx="883" cy="148" r="1" opacity="0.4"/>
+    <circle cx="943" cy="148" r="1" opacity="0.35"/>
+    <circle cx="1013" cy="133" r="1" opacity="0.3"/>
+    <circle cx="1063" cy="93" r="1" opacity="0.25"/>
+    <circle cx="683" cy="93" r="1" opacity="0.25"/>
+    <circle cx="1083" cy="78" r="1" opacity="0.25"/>
+    <circle cx="1093" cy="118" r="1" opacity="0.25"/>
+    <circle cx="663" cy="88" r="1" opacity="0.2"/>
+    <circle cx="653" cy="123" r="1" opacity="0.2"/>
+    <circle cx="633" cy="103" r="0.8" opacity="0.15"/>
+    <circle cx="1103" cy="63" r="0.8" opacity="0.2"/>
+    <circle cx="1113" cy="143" r="0.8" opacity="0.2"/>
+    <circle cx="603" cy="93" r="0.8" opacity="0.15"/>
+    <circle cx="990" cy="115" r="0.8" opacity="0.25"/>
+    <circle cx="1020" cy="65" r="0.8" opacity="0.2"/>
+    <circle cx="690" cy="135" r="0.8" opacity="0.2"/>
+    <circle cx="715" cy="148" r="0.8" opacity="0.2"/>
+    <circle cx="1045" cy="148" r="0.8" opacity="0.2"/>
+    <circle cx="1075" cy="138" r="0.8" opacity="0.2"/>
+  </g>
+</svg>
