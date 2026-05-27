@@ -9,12 +9,12 @@ Head of the student robotics lab at Innopolis University · research programmer 
 
 ---
 
-### 🛠 Currently
+### Currently
 
 - Motion planning & manipulation (MoveIt2, UR10e, KUKA LBR iiwa)
 - Behaviour trees + multi-agent navigation in [`llm_swarm`](https://github.com/Innopolis-Robotics-Society/llm_swarm)
 
-### 🧰 Stack
+### Stack
 
 ![ROS 2](https://img.shields.io/badge/ROS_2-Humble-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -23,7 +23,7 @@ Head of the student robotics lab at Innopolis University · research programmer 
 ![Linux](https://img.shields.io/badge/Linux-FF7A1A?style=flat-square&logo=linux&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-### 📌 Featured work
+### Featured work
 
 | | |
 |---|---|
@@ -32,7 +32,7 @@ Head of the student robotics lab at Innopolis University · research programmer 
 | [`project_fabian`](https://github.com/Innopolis-Robotics-Society/project_fabian) | ROS 2 stack for a Unitree A1 quadruped with an onboard Jetson Orin Nano providing: real-time human and pose detection |
 | [`mobile-platform`](https://github.com/Innopolis-Robotics-Society/mobile-platform) | Mobile platform of IRoS  |
 
-### 📊 Stats
+### Stats
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=mook003&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF7A1A&icon_color=FF7A1A&text_color=cdd6f4"/>
